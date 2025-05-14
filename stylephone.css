@@ -1,0 +1,20 @@
+/* MOBILE FIRST DESIGN */
+body {
+    font-size: 10px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+section img {
+    max-width: 300px;
+}
+
+@media screen {
+    
+}
