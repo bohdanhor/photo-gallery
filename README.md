@@ -21,7 +21,7 @@ This a photo gallery based on a specific colour scheme using HTML and CSS.
 This is a code review from blah blah
 
 **bold**
-*italic*
+*italic*<br>
 ~~Striked~~
 `<p>cool</p>`
 
