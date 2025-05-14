@@ -17,10 +17,18 @@ This a photo gallery based on a specific colour scheme using HTML and CSS.
 1. f
 2. fff
 
+## Code Review (14th May)
+This is a code review from blah blah
 
+**bold**
+*italic*
+~~Striked~~
+`<p>cool</p>`
 
-
-
+```
+Hmmm
+<p>cool</p>
+```
 
 <!-- # First lvl
 ## Second lvl
