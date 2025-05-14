@@ -14,7 +14,8 @@ This a photo gallery based on a specific colour scheme using HTML and CSS.
 ## Updates
 - Update test
 
-[] f
+1. f
+2. fff
 
 
 
